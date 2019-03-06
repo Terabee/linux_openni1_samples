@@ -10,7 +10,7 @@ For more information about the Terabee 3Dcam 80x60, please click [here](https://
 
 ## Prepare software development environment
 
-### Install OpenCV 2
+### Install OpenCV
 
 In order to use the SDK, installing OpenCV with the right version is **mandatory**. In the repository are included scripts that will help you install OpenCV on your system. Depending on your OS, you will have to run the relevant script as follows:
 
