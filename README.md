@@ -31,7 +31,7 @@ sudo apt-get install libusb-1.0-0
 
 ### Install Terabee 3Dcam SDK
 
-* Download the Linux SDK from the Downloads section of Terabee 3Dcam [here](https://www.terabee.com/portfolio-item/terabee-3dcam-80x60).
+* Download the Linux SDK from the Downloads section of Terabee 3Dcam [here](https://www.terabee.com/portfolio-item/terabee-3dcam-80x60/#downloads).
 
 * Extract the content of the archive (relevant to your system architecture and desired OpenNI version) in the directory of your choice
 
