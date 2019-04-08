@@ -2,7 +2,7 @@
 
 The purpose of this README is to give guidelines for developing applications with Terabee 3Dcam 80x60 using the OpenNI 1 framework on Linux. 
 
-For more information about the Terabee 3Dcam 80x60, please click [here](https://www.terabee.com/portfolio-item/terabee-3dcam-80x60).
+For more information about the Terabee 3Dcam 80x60, please click [here](https://www.terabee.com/shop/3d-tof-cameras/terabee-3dcam/).
 
 ## System Requirements
 
@@ -31,7 +31,7 @@ sudo apt-get install libusb-1.0-0
 
 ### Install Terabee 3Dcam SDK
 
-* Download the Linux SDK from the Downloads section of Terabee 3Dcam [here](https://www.terabee.com/portfolio-item/terabee-3dcam-80x60/#downloads).
+* Download the Linux SDK from the Downloads section of Terabee 3Dcam [here](https://www.terabee.com/shop/3d-tof-cameras/terabee-3dcam/).
 
 * Extract the content of the archive (relevant to your system architecture and desired OpenNI version) in the directory of your choice
 
